@@ -11,7 +11,7 @@
     <p>HTML form will go below.</p>
 
 
-    <form action = "form.php" method = "post">
+    <form>
 
         <label for="id">Pool ID</label>
         <input type="text" id = "id" name = "id"><br>
