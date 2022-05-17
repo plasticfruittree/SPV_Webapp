@@ -26,5 +26,5 @@ Excel sheets are unstructured and contain charts. This makes parsing extremely d
 of these Excel sheets may be lost within a large organization and extremely difficult to update. 
 
 ## What should this web application be able to do?
-* A web interface to push and change information within a database. 
-* Perform basic calculation on the web page. 
+* A web interface to perform CRUD operations to and from a database
+* Display Data

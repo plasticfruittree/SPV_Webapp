@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="">
 
 <head>
     <title>SPV CRUD</title>
@@ -15,6 +15,11 @@
 
         <label for="id">Pool ID</label>
         <input type="text" id = "id" name = "id"><br>
+
+        <br>
+
+        <label for="account">Asset ID</label>
+        <input type="text" id = "account" name = "account"><br>
 
         <br>
 
